@@ -23,11 +23,12 @@ Threats:
      
 Challenges faced and How was it Overcome:
 
-|No.|	Challenge|	Solution|
+| Folder   |      Description     |  
 |----------|:-------------:|
-|1.|	On the simulide on version where some requirements are not available|	Solved in the connect session|
-|2.|	Issues in running the code|	Solved by exploring in future skills platform|
-|3.|	Issues in workflows on make file|	Solved by taking out my files from the implementation part and I kept them in separate files|
-
-
+| 1_Requirements |  Documents detailing requirements and research |
+| 2_Design |    Documents specifying design  | 
+| 3_Implementation |   All codes and Documentation  |
+| 4_TestPlan |  Documents with test plans |
+| 5_Report |    Documentation of whole project  | 
+| 6_Images |    All the images of this project  |
 
