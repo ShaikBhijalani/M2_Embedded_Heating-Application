@@ -30,8 +30,9 @@ Threats:
         Not suitable for high temperature  regions.
      
      
-**Challenges faced and How was it Overcome:
-**
+**Challenges faced and How was it Overcome:**
+
+
 |No.|	Challenge|	Solution|
 |----------|:-------------:|:------------|
 |1.|	On the simulide on version where some requirements are not available|	Solved in the connect session|
