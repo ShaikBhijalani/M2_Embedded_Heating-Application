@@ -4,7 +4,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope.
 As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-SWOT ANALYSIS
+SWOT ANALYSIS:
    
 STRENGTHS:
 
@@ -31,13 +31,10 @@ Threats:
      
 Challenges faced and How was it Overcome:
 
-| Folder   |      Description     |  
+|No.|	Challenge|	Solution|
 |----------|:-------------:|
-| 1_Requirements |  Documents detailing requirements and research |
-| 2_Design |    Documents specifying design  | 
-| 3_Implementation |   All codes and Documentation  |
-| 4_TestPlan |  Documents with test plans |
-| 5_Report |    Documentation of whole project  | 
-| 6_Images |    All the images of this project  |
+|1.|	On the simulide on version where some requirements are not available|	Solved in the connect session|
+|2.|	Issues in running the code|	Solved by exploring in futureskills platform|
+|3.|	Issues in workflows on make file|	Solved by taking out my files from the implementation part and I kept them in separate files|
 
 
