@@ -29,16 +29,7 @@ Threats:
 
         Not suitable for high temperature  regions.
      
-     
-**Challenges faced and How was it Overcome:**
-
-
-|No.|	Challenge|	Solution|
-|----------|:-------------:|:------------|
-|1.|	On the simulide on version where some requirements are not available|	Solved in the connect session|
-|2.|	Issues in running the code|	Solved by exploring in futureskills platform|
-|3.|	Issues in workflows on make file|	Solved by taking out my files from the implementation part and I kept them in separate files|
-
+  
 **4W's and 1H:**
 
 what:
