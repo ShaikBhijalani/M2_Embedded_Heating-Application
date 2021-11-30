@@ -16,10 +16,10 @@ WEAKNESS:
     Applicable to cold countries.
     
 OPPORTUNITIES:
-     Can be used for other applications by changing the sensors.
+    Can be used for other applications by changing the sensors.
      
 Threats:
-     Not suitable for high temperature  regions.
+    Not suitable for high temperature  regions.
      
      
 Challenges faced and How was it Overcome:
