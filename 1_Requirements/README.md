@@ -7,18 +7,25 @@ As potentiometer is varied, message containing detected temperature is shown in 
 SWOT ANALYSIS
    
 STRENGTHS:
+
 	1. User  friendly
+	
 	2. Easy to change temperature
+	
 	3. Low cost
+	
 	4. Can be installed easily
   
 WEAKNESS:
+
     Applicable to cold countries.
     
 OPPORTUNITIES:
+
     Can be used for other applications by changing the sensors.
      
 Threats:
+
     Not suitable for high temperature  regions.
      
      
