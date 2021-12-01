@@ -60,9 +60,13 @@ project. We use microcontroller ATMega328for reading the temperature and holding
 the analog voltage signal coming from the sensor. After the conversion into digital signal, it checks whether the sensed value is in the 
 set value. If the data doesnot come under the set parameter, then the microcontroller starts its controlling action.
 
-![image](https://user-images.githubusercontent.com/94346768/144083604-d9c00ff7-81db-49ee-93d0-eca6ed65a257.png
+contributors list and summary:
 
-
+|Feature ID |   Feature|
+|-----------|:-----------:|
+|F_01 |	Tests if button is on or not|
+|F_02 |	Converts the binary to adc |
+|F_03 |	Displays the temperature on the serial monitor|
 
 
 
