@@ -8,4 +8,13 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope.
 As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
+|Folder|	Description|
+|-------|:------------:|
+|1| Requirements	Documents detailing requirements and research|
+|2| Design	Documents specifying design details|
+|3| Implementation	All code and documentation|
+|4| Test_plan	Documents with test plans and procedures|
+|5| Report	Documentation of whole project|
+
+
 
