@@ -60,6 +60,10 @@ project. We use microcontroller ATMega328for reading the temperature and holding
 the analog voltage signal coming from the sensor. After the conversion into digital signal, it checks whether the sensed value is in the 
 set value. If the data doesnot come under the set parameter, then the microcontroller starts its controlling action.
 
+Low level Requirements:
+
+visual studio code and simulide
+
 contributors list and summary:
 
 |Feature ID |   Feature|
