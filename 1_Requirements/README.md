@@ -1,11 +1,11 @@
-**Seat Heating Application:**
+Seat Heating Application:
 
 
 The buttons have to be switched on before the app starts working. Potentiometer acts as temperature sensor.
 It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope.
 As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-**SWOT ANALYSIS:**
+SWOT ANALYSIS
    
 STRENGTHS:
 
@@ -30,7 +30,7 @@ Threats:
         Not suitable for high temperature  regions.
      
   
-**4W's and 1H:**
+4W's and 1H:
 
 what:
 
@@ -44,7 +44,7 @@ Where:
 
 At Automative Industries
 
-**High Level Requirements:**
+High Level Requirements:
 
 In the high level requirement, we must have the knowledge of Microcontroller ATmega328.
 
