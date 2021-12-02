@@ -4,4 +4,3 @@ doc:
 
 clean:
 	rm -rf html*
-© 2021 GitHub, Inc.
