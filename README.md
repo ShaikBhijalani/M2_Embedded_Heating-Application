@@ -16,5 +16,10 @@ As potentiometer is varied, message containing detected temperature is shown in 
 |4| Test_plan	Documents with test plans and procedures|
 |5| Report	Documentation of whole project|
 
+Badges:
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48fe48f9c4974f7e82c9ac19300c1e91)](https://www.codacy.com/gh/ShaikBhijalani/M2_Embedded_Heating-Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikBhijalani/M2_Embedded_Heating-Application&amp;utm_campaign=Badge_Grade)
+
+
 
 
