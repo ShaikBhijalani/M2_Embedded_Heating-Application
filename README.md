@@ -22,6 +22,15 @@ Badges:
 
 [![CI](https://github.com/ShaikBhijalani/M2_Embedded_Heating-Application/actions/workflows/main.yml/badge.svg)](https://github.com/ShaikBhijalani/M2_Embedded_Heating-Application/actions/workflows/main.yml)
 
+https://api.codiga.io/project/30309/score/svg
+
+![image](https://user-images.githubusercontent.com/94346768/144443560-c4814ee5-eb47-4f36-b175-f3a43c789f6b.png)
+
+https://api.codiga.io/project/30309/status/svg
+
+![image](https://user-images.githubusercontent.com/94346768/144443644-ee3872f7-ed49-404c-b0d5-a1ce67d74abc.png)
+
+
 
 
 
