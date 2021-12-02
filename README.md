@@ -20,6 +20,8 @@ Badges:
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/48fe48f9c4974f7e82c9ac19300c1e91)](https://www.codacy.com/gh/ShaikBhijalani/M2_Embedded_Heating-Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaikBhijalani/M2_Embedded_Heating-Application&amp;utm_campaign=Badge_Grade)
 
+[![CI](https://github.com/ShaikBhijalani/M2_Embedded_Heating-Application/actions/workflows/main.yml/badge.svg)](https://github.com/ShaikBhijalani/M2_Embedded_Heating-Application/actions/workflows/main.yml)
+
 
 
 
